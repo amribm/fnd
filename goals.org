@@ -1,0 +1,8 @@
+#+title: fnd
+* [0/4]Parse Args
+- [ ] dir name positional argument
+- [ ] type ( enum: file , dir, syslink, execs , sockets)
+- [ ] name (filename/glob pattern)
+- [ ] iname (filename/glob pattern) (case insensitive)
+- [ ] depth ( exact depth to search )
+- [ ] size (file size is greater/lesser than or equal to some numbers)
