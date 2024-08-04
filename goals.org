@@ -1,6 +1,6 @@
 #+title: fnd
-* [0/4]Parse Args
-- [ ] dir name positional argument
+* [1/6]Parse Args
+- [X] dir name positional argument
 - [ ] type ( enum: file , dir, syslink, execs , sockets)
 - [ ] name (filename/glob pattern)
 - [ ] iname (filename/glob pattern) (case insensitive)
